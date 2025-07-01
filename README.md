@@ -6,8 +6,8 @@ A simple and elegant weather application built using **React Native** and **Expo
 
 <!-- Add your own screenshots in this section -->
 <p align="center">
-  <img src="weatherExpo\home.png" width="200" />
-  <img src="weatherExpo\search.png" width="200" />
+  <img src="./screenshorts/home.png" width="200" />
+  <img src="./screenshorts/search.png" width="200" />
 </p>
 
 ## 🚀 Features
